@@ -1,0 +1,9 @@
+{
+      "name":"Alexandra" ,
+      "surname":"Nosova",
+      "family":{ "Grandmother":{"Name":"Nadya",
+      "Age":75, 
+      "female":true,
+      "toys":["ball","doll","bike", true, 3, 4.5, null,{"friend":"Ivan"}]}
+      }
+ }
